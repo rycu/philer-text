@@ -1,0 +1,30 @@
+{
+  "name": "philer-text",
+  "version": "1.0.0",
+  "description": "For when only Phil puns Phil do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rycu/philer-text.git"
+  },
+  "keywords": [
+    "Phil"
+  ],
+  "author": "Ryan Cutter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rycu/philer-text/issues"
+  },
+  "homepage": "https://github.com/rycu/philer-text#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3"
+  }
+}
