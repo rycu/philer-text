@@ -1,6 +1,6 @@
 {
   "name": "philer-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For when only Phil puns Phil do.",
   "main": "index.js",
   "scripts": {
