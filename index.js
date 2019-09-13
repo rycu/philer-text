@@ -3,6 +3,8 @@ const philers = [
   //and please keep in alphabetical order
   "Big Phily Style",
   "Bitter Phil to swallow",
+  "BrimPhil of Asha",
+  "Cannes Philm Festival",
   "Don't be afraid to catch Phils",
   "Girls on Philm",
   "I Phil for you",
