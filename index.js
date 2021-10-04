@@ -29,7 +29,8 @@ const philers = [
   "The Phils are alive with the sound of music",
   "Three Philed Robin Reliant",
   "Where there's a Phil, there's a way",
-  "Windy Philler"
+  "Windy Philler",
+  "You are now a registered a-phil-iate",
 ];
 
 const philer = () => philers[Math.floor(Math.random() * philers.length)];
